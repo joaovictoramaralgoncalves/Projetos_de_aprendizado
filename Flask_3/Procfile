@@ -1,0 +1,1 @@
+web: gunicorn -b :$PORT microblog:app  #app é a variável do começo definida lá no __init__
