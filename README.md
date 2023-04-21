@@ -8,6 +8,8 @@ https://github.com/joaovictoramaralgoncalves/Projetos_de_aprendizado/blob/master
 https://github.com/joaovictoramaralgoncalves/Projetos_de_aprendizado/blob/master/Module_3_Specialized_Visualization_Tools.ipynb
 - Módulo 3 | part 2 - Specialized Visualization Tools:
 https://github.com/joaovictoramaralgoncalves/Projetos_de_aprendizado/blob/master/Module_3_%7C_part_2_Specialized_Visualization_Tools.ipynb
+- Módule 4 - How to create Maps:
+https://github.com/joaovictoramaralgoncalves/Projetos_de_aprendizado/blob/master/Module_4_How_to_create_Maps.ipynb
 
 ## Flask Básico
 - Flask_1: https://github.com/joaovictoramaralgoncalves/Projetos_de_aprendizado/tree/master/Flask_1
