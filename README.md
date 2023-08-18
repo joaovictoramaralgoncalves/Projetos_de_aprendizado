@@ -15,3 +15,7 @@ https://github.com/joaovictoramaralgoncalves/Projetos_de_aprendizado/blob/master
 - Flask_1: https://github.com/joaovictoramaralgoncalves/Projetos_de_aprendizado/tree/master/Flask_1
 - Flask_2: https://github.com/joaovictoramaralgoncalves/Projetos_de_aprendizado/tree/master/Flask_2
 - Flask_3: https://github.com/joaovictoramaralgoncalves/Projetos_de_aprendizado/tree/master/Flask_3
+
+## Aulas em geral:
+- API do BACEN e comparação de IBOV com CDI:
+https://github.com/joaovictoramaralgoncalves/Projetos_de_aprendizado/blob/master/SGS_BCB.ipynb
